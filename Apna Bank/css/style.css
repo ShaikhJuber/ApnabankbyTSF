@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+ body{
+    background: url(../Images/bankbg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    font-family: 'Solway', serif;
+}
+
+.fa-bars
+{
+	color:#fff;
+	font-size:30p !important;
+}
+/*---banner section--*/
+#main
+{
+	text-align: center;
+background-color:  rgb(00,00,00);
+color:#fff;
+padding: 20px;
+padding-top:5%;	
+}
+/*---service section---*/
+
+#features1
+{
+	text-align: center;
+	padding: 10% 15%;
+}
+
+ #features
+ {
+	 text-align: center;
+	 padding: 20% 35%;
+	 background: url(../img/banking-technology-conceptisometric-illustration-bank-260nw-1945826485.webp) no-repeat center center fixed;
+	 background-repeat:no-repeat;
+	 background-size: cover;
+	
+ }
+ .features1 h3
+{
+	padding:5px;
+	margin-top:25px;
+	text-transform:uppercase;
+}
+
+.features h3
+{
+	padding:5px;
+	margin-top:25px;
+	text-transform:uppercase;
+}
+
+#features .btn-primary
+{
+	box-shadow:none;
+	padding:10px 25px;
+	border:none;
+	align-content: center;
+	background-image:linear-gradient(to right,#a517ba,#5f1782)
+}
+/* Action*/
+  #action{
+ 
+    padding: 7% 15%;
+	background-size: cover;
+	background-repeat: no-repeat;
+    text-align: center;
+    line-height: 1.5;
+    color: red ;
+	font-weight: 600;
+	font-size: 88px;
+  }
+  .main{
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 10px 0px;
+  }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* footer */
+#footer{
+	background-color: #242B2E;
+    color:#fff;
+	position:relative;
+ /* padding: 4% %; */
+    text-align: center;
+}
